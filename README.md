@@ -28,4 +28,4 @@ con instrucciones insert, o métodos similares)
 
   
 ## Diagrama (Modelo Relacional)📎
-![Modelo Relacional.png]()
+![Modelo Relacional.png](https://github.com/ArsJohan/Examen_3_AppServWEB_Mi_18_20/blob/main/DiagramaRelacional.png)
